@@ -20,33 +20,36 @@ Built a 5-page executive Power BI report with dynamic Company, Date, and Period 
 
 #### Page 1: Financial Performance Overview
 Tracks core KPIs (Revenue, EBITDA, Net Income, Operating & Free Cash Flow, ROE), margin evolution, cash vs. net debt, and cash generation trends[cite: 104].
-![Financial Performance Overview]( <img width="1164" height="796" alt="2" src="https://github.com/user-attachments/assets/d03fb5ca-326c-4778-a2d5-8b80dedac916" />
-<img width="1156" height="804" alt="1" src="https://github.com/us<img width="1156" height="804" alt="1" src="https://github.com/user-attachments/assets/df5bd667-1862-4b90-a936-320f8f237942" />
-er-attachments/assets/fd29b4ea-eca4-4281-83c6-29ba46fe321f" />
+![Financial Performance Overview]( <img width="1156" height="804" alt="1" src="https://github.com/user-attachments/assets/d23f7741-a263-4bdf-a2fe-787cb7dc92af" />
 )
 
 #### Page 2: P&L & Cost Structure Analysis
-Provides a detailed Profit & Loss statement matrix, YoY/QoQ revenue and cost growth cards, a P&L Waterfall bridge from Revenue to Net Income, and profitability breakdown[cite: 105].
+Provides a detailed Profit & Loss statement matrix, YoY/QoQ revenue and cost growth cards, a P&L Waterfall bridge from Revenue to Net Income, and profitability breakdown
+
 ![P&L and Cost Structure Analysis](![Uploading 2.png…])
 
 #### Page 3: Financial Position & Capital Structure
 Visualizes Assets, Liabilities, and Shareholders' Equity composition and historical mix alongside leverage metrics (Debt-to-Equity, Debt-to-Assets, Net Debt/EBITDA)[cite: 106].
-![Financial Position and Capital Structure](Screen%20Shots/3.png)
+![Financial Position and Capital Structure](<img width="1158" height="807" alt="3" src="https://github.com/user-attachments/assets/7d3803ca-3540-41c4-9bb3-844a5585ee3b" />
+)
 
 #### Page 4: Liquidity, Solvency & Financial Leverage
 Monitors Current, Quick, and Cash ratios, Working Capital, Interest Coverage, Debt Capacity (EBITDA vs. Interest Expense), and debt maturity trends[cite: 107].
-![Liquidity, Solvency and Financial Leverage](Screen%20Shots/4.png)
+![Liquidity, Solvency and Financial Leverage](<img width="1156" height="806" alt="4" src="https://github.com/user-attachments/assets/83b21c6b-f7b1-4f41-beb9-c51cd966a571" />
+)
 
 #### Page 5: Working Capital & Asset Utilization
-Analyzes Net Working Capital components (AR, Inventory, AP), Cash Conversion Cycle (DSO, DIO, DPO), and asset turnover efficiency[cite: 108].
-![Working Capital and Asset Utilization](Screen%20Shots/5.png)
+Analyzes Net Working Capital components (AR, Inventory, AP), Cash Conversion Cycle (DSO, DIO, DPO), and asset turnover efficiency
+![Working Capital and Asset Utilization](<img width="1153" height="795" alt="5" src="https://github.com/user-attachments/assets/ceb90b43-6650-4dda-8620-3b0fa8f266ff" />
+)
 
 ---
 
 ### 4. Interactive Financial Extractor Web App (`Financial_Extractor_Deploy`)
 Built a **Streamlit** web application allowing users to enter one or multiple company ticker symbols, select the reporting period (Yearly/Quarterly), extract Income Statement, Balance Sheet, and Cash Flow data on demand, and download clean CSV files directly.
 
-![Financial Extractor App](Screen%20Shots/app_interface.png)
+![Financial Extractor App](<img width="1920" height="989" alt="Screenshot 2026-09-09 194843" src="https://github.com/user-attachments/assets/5739a2dc-423c-4a2c-b6a2-572ddd10f4d2" />
+)
 
 ---
 
