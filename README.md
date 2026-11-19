@@ -20,11 +20,14 @@ Built a 5-page executive Power BI report with dynamic Company, Date, and Period 
 
 #### Page 1: Financial Performance Overview
 Tracks core KPIs (Revenue, EBITDA, Net Income, Operating & Free Cash Flow, ROE), margin evolution, cash vs. net debt, and cash generation trends[cite: 104].
-![Financial Performance Overview](Screen%20Shots/1.png)
+![Financial Performance Overview]( <img width="1164" height="796" alt="2" src="https://github.com/user-attachments/assets/d03fb5ca-326c-4778-a2d5-8b80dedac916" />
+<img width="1156" height="804" alt="1" src="https://github.com/us<img width="1156" height="804" alt="1" src="https://github.com/user-attachments/assets/df5bd667-1862-4b90-a936-320f8f237942" />
+er-attachments/assets/fd29b4ea-eca4-4281-83c6-29ba46fe321f" />
+)
 
 #### Page 2: P&L & Cost Structure Analysis
 Provides a detailed Profit & Loss statement matrix, YoY/QoQ revenue and cost growth cards, a P&L Waterfall bridge from Revenue to Net Income, and profitability breakdown[cite: 105].
-![P&L and Cost Structure Analysis](Screen%20Shots/2.png)
+![P&L and Cost Structure Analysis](![Uploading 2.png…])
 
 #### Page 3: Financial Position & Capital Structure
 Visualizes Assets, Liabilities, and Shareholders' Equity composition and historical mix alongside leverage metrics (Debt-to-Equity, Debt-to-Assets, Net Debt/EBITDA)[cite: 106].
